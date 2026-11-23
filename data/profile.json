@@ -11,11 +11,7 @@
     { "angka": "12", "label": "Proyek selesai" }
   ],
   "keahlian": ["HTML & CSS", "JavaScript", "Python", "UI Design", "Git"],
-  "proyek": [
-    { "judul": "Aplikasi Catatan", "deskripsi": "Aplikasi catatan sederhana dengan pencarian cepat.", "tag": ["JavaScript", "PWA"], "link": "https://github.com/" },
-    { "judul": "Dashboard Penjualan", "deskripsi": "Visualisasi data penjualan bulanan untuk tim kecil.", "tag": ["Python", "Chart"], "link": "https://github.com/" },
-    { "judul": "Landing Page Kafe", "deskripsi": "Situs satu halaman dengan menu dan peta lokasi.", "tag": ["HTML", "CSS"], "link": "https://github.com/" }
-  ],
+  "proyek": [],
   "kontak": { "email": "nama@email.com", "github": "username", "linkedin": "", "instagram": "" },
   "cv": ""
 }
