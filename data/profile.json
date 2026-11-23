@@ -3,8 +3,8 @@
   "sapaan": "Halo, saya",
   "peran": "Web Developer",
   "tagline": "Saya membangun produk digital yang rapi, cepat, dan mudah dipakai.",
-  "foto": "assets/image.png",
-  "lokasi": "Jakarta, Indonesia",
+  "foto": "data/IMG_20261031_184104_337.jpg",
+  "lokasi": "Cimahi, Jawa Barat, Indonesia",
   "tentang": "Saya sekolah SMK di jurusan RPL dan tertarik kepada informatika.",
   "statistik": [
     { "angka": "3+", "label": "Tahun pengalaman" },
